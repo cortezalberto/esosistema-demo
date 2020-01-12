@@ -9,8 +9,7 @@ notifications:
     recipients:
       - cortezalberto@gmail.com
 
-# - mysql
-# - mongodb
+
 # before_install:
 # - mysql -e 'CREATE DATABASE IF NOT EXISTS forge;'
 script:
