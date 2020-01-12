@@ -8,7 +8,7 @@ notifications:
   email:
     recipients:
       - cortezalberto@gmail.com
-# services:
+
 # - mysql
 # - mongodb
 # before_install:
